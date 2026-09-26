@@ -7,6 +7,7 @@ An AI-assisted applicant-screening workspace that helps recruiting teams review 
 ## Product demo
 
 **[Watch the two-minute product demo →](https://youtu.be/-ypX2yC1uTY)**
+
 [Download the original demonstration video](./assets/recruiter-copilot-demo.mp4)
 
 > The demonstration uses synthetic candidate data and deterministic demo
